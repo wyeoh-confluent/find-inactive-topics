@@ -188,5 +188,3 @@ To include them after review, add `--allow-unmarked`. To keep them, remove them 
 * [confluent kafka topic delete](https://docs.confluent.io/confluent-cli/current/command-reference/kafka/topic/confluent_kafka_topic_delete.html)
 * [confluent kafka topic list](https://docs.confluent.io/confluent-cli/current/command-reference/kafka/topic/confluent_kafka_topic_list.html)
 * [Manage topics in Confluent Cloud](https://docs.confluent.io/cloud/current/client-apps/topics/manage.html)
-
-*Co-authored with AI from Glean · gen:0d3341a9a1744492a0c5c09c9c7ade68.2 · 2026-11-27T02:07:47Z*
