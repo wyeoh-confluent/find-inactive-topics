@@ -13,7 +13,7 @@ A topic qualifies when `latest − lookback` is `0` for **every** partition (a m
 ## Usage
 
 ```bash
-cd empty_topics/find-empty-topics
+cd empty_topics/find-inactive-topics
 
 ./find-inactive-topics.sh \
   --bootstrap pkc-xxxx.region.aws.confluent.cloud:9092 \
