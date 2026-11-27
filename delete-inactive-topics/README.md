@@ -1,6 +1,3 @@
----
-glean_provenance: {"generation_id":"0d3341a9a1744492a0c5c09c9c7ade68.2","generated_at":"2026-11-27T02:07:47Z","model":"Glean Assistant 571.123"}
----
 # Confluent Cloud Topic Cleanup
 
 A safety-first Bash script for deleting a reviewed list of inactive topics from a Confluent Cloud Kafka cluster using the Confluent CLI. It reads exact topic names from a file, checks them against the live cluster, previews everything by default, and only deletes after explicit confirmation.
